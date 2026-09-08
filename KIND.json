@@ -1,0 +1,11 @@
+{
+ "kind": "finder",
+ "engine": "https://github.com/shaelsrv/ModelMeetsReality",
+ "engine_commit": "56a33c1",
+ "tier": "designed",
+ "one_line": "surfaces instances others miss",
+ "premise_shape": "Instances of <pattern> exist in <domain> and are findable by <method>.",
+ "falsifier": "it fails to surface an instance that later proves to have been findable",
+ "predict_frame": "Surface candidate instances and state what would show a missed one.",
+ "assess_frame": "Did an instance surface later that this model should have found?"
+}
